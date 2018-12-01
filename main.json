@@ -1,0 +1,53 @@
+{
+	"profile":{
+		"img":"Chrysanthemum.jpg",
+         "name":"umamaheswari",
+         "rollno":"16NN1A1259",
+         "institution":"vignan",
+         "place":"janapadu"
+	},
+	"career":{
+		"info":"1.Marketing career objective examples"},
+	"education":[
+		{
+		"degree":"b.tech",
+		"institution":"vigna",
+		"year of passing":"2020"
+	    },
+	    {
+		"degree":"intermediate",
+		"institution":"narayana",
+		"year of passing":"2016"
+	    },
+	    {
+		"degree":"ssc",
+		"institution":"sri chaithanaya bala kutter",
+		"year of passing":"2014"
+	    }
+    ],
+    "languages":[
+    {
+        "lang":"teluge"
+    },
+    {
+    	"lang":"english"
+    },
+    {
+    	"lang":"hindi"
+    }
+ ],
+    "skills":[{
+    	"title":"platform",
+    	"content":"windows,linus"
+    },
+    {
+    	"title":"programming languages",
+    	"content":"c,c++,java,big data"
+    },
+    {
+    	"title":"database",
+    	"content":"mysql"
+    }
+
+ ]
+}
